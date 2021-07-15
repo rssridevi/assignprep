@@ -32,7 +32,7 @@ public void verify()
 			Iterator<Integer> it=temp.iterator();
 			while(it.hasNext())
 			{	
-			 if(it.next()==7)*/
+			 if(it.next()==8)*/
 		for(int i=60;i<70;i++)
 			 {
 				 String title=path.getString("title["+i+"]");
